@@ -1,1 +1,2 @@
-print(3)
+vezetéknév = input ('Mi a vezetékneved? ')
+keresztnév = input ('Mi a keresztneved? ')
